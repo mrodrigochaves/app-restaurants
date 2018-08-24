@@ -357,6 +357,7 @@ nav h1 a:hover {
 
 #restaurant-img {
   width: 90%;
+  height: auto;
 }
 
 #restaurant-address {
@@ -576,6 +577,7 @@ nav h1 a:hover {
   #restaurant-img,
   #restaurant-cuisine {
     width: 50%;
+    height: auto;
   }
 
   #restaurant-name {
@@ -638,6 +640,7 @@ nav h1 a:hover {
   #restaurant-address,
   #restaurant-hours {
     width: 48%;
+    height: auto;
   }
 
   #restaurant-name {
