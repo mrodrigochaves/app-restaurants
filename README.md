@@ -1,7 +1,9 @@
-Project of the Nanodegree developer program Frond-End @Udacity
+# Restaurant Reviews Stage 1
 
-About the application:
+Project of [Frond-End Developer Nanodegree](https://br.udacity.com/course/front-end-web-developer-nanodegree--nd001-br-advanced) program from @Udacity
 
+**About the application:**
+```
 Project Overview
 Convert the provided website by making use of a responsive design.
 Implement accessibility features in the HTML site.
@@ -13,5 +15,6 @@ Python 2: python -m SimpleHTTPServer 8000
 Python 3: python3 -m http.server 8000
 Access the site in your browser at http: // localhost: 8000
 To start this application, open the index.html file in your browser.
-
-Project rules here: Restaurants Reviews Stage 1
+```
+Project rules here: 
+[Restaurants Reviews Stage 1](https://github.com/udacity/mws-restaurant-stage-1/)
