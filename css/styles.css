@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-/* ACCESSIBILITY skip-link */
+/* Accessibility with skip-link */
 .skip-link {
   position: absolute;
   top: -100px;
@@ -184,7 +184,7 @@ nav h1 a:hover {
   flex-wrap: wrap;
 }
 
-/* ADDED ARROW ELEMENT POINTING TO RESULTS */
+/* Added Arrow Element Pointing to Results */
 .filter-options::after {
   content: "";
   position: absolute;
@@ -418,7 +418,7 @@ nav h1 a:hover {
 
 /*
 *
-* REVIEW ITEM CUSTOMIZATION
+* Review item customization
 *
 */
 
@@ -474,7 +474,7 @@ nav h1 a:hover {
 */
 
 @media screen and (max-width: 576px) {
-  /* HOME PAGE */
+  /* Home page */
   #map,
   #restaurants-list {
     width: 100%;
@@ -494,7 +494,7 @@ nav h1 a:hover {
     width: 100%;
   }
 
-  /* RESTAURANT DETAILS */
+  /* Restaurant details */
   .restaurant-main #map-container {
     width: 100%;
     height: 300px;
@@ -530,7 +530,7 @@ nav h1 a:hover {
 }
 
 @media screen and (min-width: 577px) and (max-width: 767px) {
-  /* HOME PAGE */
+  /* Home page */
   #map {
     width: 100%;
   }
@@ -553,7 +553,7 @@ nav h1 a:hover {
     width: calc(50% - 24px);
   }
 
-  /* ****RESTAURANT DETAILS ******/
+  /* ****Restaurant details ******/
   /*  details */
   .restaurant-main {
     position: relative;
@@ -603,7 +603,7 @@ nav h1 a:hover {
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
-  /* HOME PAGE */
+  /* Home page */
   #map {
     width: 100%;
   }
@@ -619,8 +619,7 @@ nav h1 a:hover {
     font-size: 1.3em;
   }
 
-  /******* RESTAURANT DETAILS *******/
-  /* restaurant details */
+  /******* Restaurant details *******/
   #restaurant-container {
     width: 100%;
     padding: 0;
@@ -716,7 +715,7 @@ nav h1 a:hover {
 }
 
 @media screen and (max-width: 767px) {
-  /* RESTAURANT DETAILS */
+  /* Restaurant details */
   /* reviews */
   #reviews-list li {
     width: 100%;
